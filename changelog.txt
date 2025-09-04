@@ -3,6 +3,7 @@
 ========================
 
 - fixed markdown parser
+- improved parsing `<links>` in the markdown parser
 
 ========================
 0.0.99
