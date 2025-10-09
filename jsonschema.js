@@ -553,8 +553,10 @@ function check_object(meta, error, value, response, stop, definitions, path, par
 							if (newerror.items.length) {
 								for (var err of newerror.items)
 									error.push(ref.$$ID + '.' + err, '@');
-							} else
+							} else {
 								response[key] = tmp;
+								count++;
+							}
 							continue;
 						} else
 							continue;

@@ -4,6 +4,7 @@
 
 - fixed markdown parser
 - improved parsing `<links>` in the markdown parser
+- fixed nested objects in JSON schemas
 
 ========================
 0.0.99
