@@ -5,6 +5,7 @@
 - fixed markdown parser
 - improved parsing `<links>` in the markdown parser
 - fixed nested objects in JSON schemas
+- fixed string slug method
 
 ========================
 0.0.99
