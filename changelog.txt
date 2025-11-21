@@ -6,6 +6,7 @@
 - improved parsing `<links>` in the markdown parser
 - fixed nested objects in JSON schemas
 - fixed string slug method
+- changed `max-age` header to `5 minutes`
 
 ========================
 0.0.99
